@@ -2,12 +2,24 @@
   "entId": "U825744",
   "name": "Sabbu",
   "lob": "Technology / Enterprise Technology",
-  "registeredAt": "2026-10-11T19:12:52.127Z",
-  "totalTestsAppeared": 0,
+  "registeredAt": "2026-10-11T19:13:49.672Z",
+  "totalTestsAppeared": 1,
   "totalScore": 0,
-  "totalQuestions": 0,
+  "totalQuestions": 5,
   "overallAccuracy": 0,
   "isPrizeEligible": false,
-  "tests": [],
-  "lastUpdated": "2026-10-11T19:12:52.127Z"
+  "lastUpdated": "2026-10-11T19:13:49.672Z",
+  "tests": [
+    {
+      "boothId": "booth-1",
+      "boothNumber": 1,
+      "boothTitle": "Generative AI & LLMs",
+      "topicTitle": "Retrieval-Augmented Generation (RAG) & Vector DBs",
+      "score": 0,
+      "totalQuestions": 5,
+      "percentage": 0,
+      "timeTakenSeconds": 6,
+      "completedAt": "2026-10-11T19:13:45.457Z"
+    }
+  ]
 }
