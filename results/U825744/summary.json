@@ -2,13 +2,13 @@
   "entId": "U825744",
   "name": "Sabbu",
   "lob": "Technology / Enterprise Technology",
-  "registeredAt": "2026-10-11T19:13:49.672Z",
-  "totalTestsAppeared": 1,
-  "totalScore": 0,
-  "totalQuestions": 5,
-  "overallAccuracy": 0,
+  "registeredAt": "2026-10-11T19:14:57.499Z",
+  "totalTestsAppeared": 2,
+  "totalScore": 2,
+  "totalQuestions": 10,
+  "overallAccuracy": 20,
   "isPrizeEligible": false,
-  "lastUpdated": "2026-10-11T19:13:49.672Z",
+  "lastUpdated": "2026-10-11T19:14:57.499Z",
   "tests": [
     {
       "boothId": "booth-1",
@@ -20,6 +20,17 @@
       "percentage": 0,
       "timeTakenSeconds": 6,
       "completedAt": "2026-10-11T19:13:45.457Z"
+    },
+    {
+      "boothId": "booth-3",
+      "boothNumber": 3,
+      "boothTitle": "Cybersecurity & Zero Trust",
+      "topicTitle": "Supply Chain & Cloud Application Security",
+      "score": 2,
+      "totalQuestions": 5,
+      "percentage": 40,
+      "timeTakenSeconds": 5,
+      "completedAt": "2026-10-11T19:14:53.218Z"
     }
   ]
 }
