@@ -1,0 +1,80 @@
+{
+  "schemaVersion": "1.0",
+  "event": {
+    "eventId": "TECHSUMMIT_2026",
+    "eventName": "Technology Summit"
+  },
+  "submission": {
+    "submissionId": "TS_20261013_143122_13BA",
+    "completedAt": "2026-10-13T14:31:22.401Z"
+  },
+  "booth": {
+    "boothId": "booth-1",
+    "boothNumber": 1,
+    "boothTitle": "Generative AI & LLMs",
+    "topicTitle": "Retrieval-Augmented Generation (RAG) & Vector DBs",
+    "boothsCompletedSoFar": 1,
+    "isPrizeEligible": false
+  },
+  "participant": {
+    "name": "Sabbu",
+    "entId": "U825744",
+    "lob": "Technology / Enterprise Technology",
+    "company": "Wells Fargo",
+    "role": "Summit Attendee"
+  },
+  "participation": {
+    "deviceId": "d6a68d31-8b4d-4247-9344-82782a0726af",
+    "participationKey": "8d065b566bd61210ea621a62798beb0b584cc543ece1ab0dbd6355a8417ac612",
+    "attemptNumber": 1
+  },
+  "device": {
+    "deviceId": "d6a68d31-8b4d-4247-9344-82782a0726af",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 27_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/155.0.8059.37 Mobile/15E148 Safari/604.1",
+    "platform": "iPhone",
+    "language": "en-IN",
+    "timezone": "Asia/Kolkata",
+    "timezoneOffset": -330,
+    "screenWidth": 440,
+    "screenHeight": 956,
+    "devicePixelRatio": 3,
+    "touchSupport": true,
+    "online": true
+  },
+  "quiz": {
+    "score": 0,
+    "totalQuestions": 5,
+    "percentage": 0,
+    "correctAnswers": 0,
+    "incorrectAnswers": 5,
+    "unansweredAnswers": 0,
+    "timeTakenSeconds": 5
+  },
+  "answers": [
+    {
+      "questionId": "b1_t2_q5",
+      "selectedAnswer": "Automatically translating non-English prompts before vector lookup",
+      "correct": false
+    },
+    {
+      "questionId": "b1_t2_q4",
+      "selectedAnswer": "It eliminates the need for generating vector embeddings",
+      "correct": false
+    },
+    {
+      "questionId": "b1_t2_q3",
+      "selectedAnswer": "Running local device inference while streaming cloud completions",
+      "correct": false
+    },
+    {
+      "questionId": "b1_t2_q2",
+      "selectedAnswer": "Hamming Distance",
+      "correct": false
+    },
+    {
+      "questionId": "b1_t2_q1",
+      "selectedAnswer": "Removing the requirement for GPU acceleration entirely",
+      "correct": false
+    }
+  ]
+}
