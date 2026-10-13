@@ -2,12 +2,35 @@
   "entId": "U825744",
   "name": "Sabbu",
   "lob": "Technology / Enterprise Technology",
-  "registeredAt": "2026-10-13T14:07:29.605Z",
-  "totalTestsAppeared": 0,
-  "totalScore": 0,
-  "totalQuestions": 0,
-  "overallAccuracy": 0,
+  "registeredAt": "2026-10-11T19:13:45.463Z",
+  "totalTestsAppeared": 2,
+  "totalScore": 2,
+  "totalQuestions": 10,
+  "overallAccuracy": 20,
   "isPrizeEligible": false,
-  "tests": [],
-  "lastUpdated": "2026-10-13T14:07:29.605Z"
+  "lastUpdated": "2026-10-13T14:19:45.644Z",
+  "tests": [
+    {
+      "boothId": "booth-1",
+      "boothNumber": 1,
+      "boothTitle": "Generative AI & LLMs",
+      "topicTitle": "Retrieval-Augmented Generation (RAG) & Vector DBs",
+      "score": 0,
+      "totalQuestions": 5,
+      "percentage": 0,
+      "timeTakenSeconds": 6,
+      "completedAt": "2026-10-11T19:13:45.463Z"
+    },
+    {
+      "boothId": "booth-3",
+      "boothNumber": 3,
+      "boothTitle": "Cybersecurity & Zero Trust",
+      "topicTitle": "Supply Chain & Cloud Application Security",
+      "score": 2,
+      "totalQuestions": 5,
+      "percentage": 40,
+      "timeTakenSeconds": 5,
+      "completedAt": "2026-10-11T19:14:53.220Z"
+    }
+  ]
 }
