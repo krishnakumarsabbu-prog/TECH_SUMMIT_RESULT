@@ -5,31 +5,31 @@
     "eventName": "Technology Summit"
   },
   "submission": {
-    "submissionId": "TS_20261013_143122_13BA",
-    "completedAt": "2026-10-13T14:31:22.401Z"
+    "submissionId": "TS_20261014_050108_3362",
+    "completedAt": "2026-10-14T05:01:08.971Z"
   },
   "booth": {
     "boothId": "booth-1",
     "boothNumber": 1,
     "boothTitle": "Generative AI & LLMs",
-    "topicTitle": "Retrieval-Augmented Generation (RAG) & Vector DBs",
+    "topicTitle": "Generative AI & Transformer Architectures",
     "boothsCompletedSoFar": 1,
     "isPrizeEligible": false
   },
   "participant": {
-    "name": "Sabbu",
+    "name": "Participant",
     "entId": "U825744",
     "lob": "Technology / Enterprise Technology",
     "company": "Wells Fargo",
     "role": "Summit Attendee"
   },
   "participation": {
-    "deviceId": "d6a68d31-8b4d-4247-9344-82782a0726af",
-    "participationKey": "8d065b566bd61210ea621a62798beb0b584cc543ece1ab0dbd6355a8417ac612",
+    "deviceId": "6cb05010-3a72-4d9b-a33e-41e267e54e32",
+    "participationKey": "734401090a516bffb83adec1038d8d124b09e0b8051eb0594511679e1f5d41a4",
     "attemptNumber": 1
   },
   "device": {
-    "deviceId": "d6a68d31-8b4d-4247-9344-82782a0726af",
+    "deviceId": "6cb05010-3a72-4d9b-a33e-41e267e54e32",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 27_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/155.0.8059.37 Mobile/15E148 Safari/604.1",
     "platform": "iPhone",
     "language": "en-IN",
@@ -42,38 +42,38 @@
     "online": true
   },
   "quiz": {
-    "score": 0,
+    "score": 1,
     "totalQuestions": 5,
-    "percentage": 0,
-    "correctAnswers": 0,
-    "incorrectAnswers": 5,
+    "percentage": 20,
+    "correctAnswers": 1,
+    "incorrectAnswers": 4,
     "unansweredAnswers": 0,
-    "timeTakenSeconds": 5
+    "timeTakenSeconds": 10
   },
   "answers": [
     {
-      "questionId": "b1_t2_q5",
-      "selectedAnswer": "Automatically translating non-English prompts before vector lookup",
+      "questionId": "b1_t1_q5",
+      "selectedAnswer": "Informing the attention layers about the sequential order of input tokens",
+      "correct": true
+    },
+    {
+      "questionId": "b1_t1_q2",
+      "selectedAnswer": "The maximum token count of the prompt context",
       "correct": false
     },
     {
-      "questionId": "b1_t2_q4",
-      "selectedAnswer": "It eliminates the need for generating vector embeddings",
+      "questionId": "b1_t1_q1",
+      "selectedAnswer": "Recurrent Backpropagation",
       "correct": false
     },
     {
-      "questionId": "b1_t2_q3",
-      "selectedAnswer": "Running local device inference while streaming cloud completions",
+      "questionId": "b1_t1_q3",
+      "selectedAnswer": "Zero-Shot Chain-of-Thought",
       "correct": false
     },
     {
-      "questionId": "b1_t2_q2",
-      "selectedAnswer": "Hamming Distance",
-      "correct": false
-    },
-    {
-      "questionId": "b1_t2_q1",
-      "selectedAnswer": "Removing the requirement for GPU acceleration entirely",
+      "questionId": "b1_t1_q4",
+      "selectedAnswer": "When an unauthorized user intercepts model prompt tokens",
       "correct": false
     }
   ]
