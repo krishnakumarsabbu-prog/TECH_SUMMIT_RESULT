@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T08:16:17.627Z",
+  "generatedAt": "2026-10-20T08:49:17.983Z",
   "summitName": "Wells Fargo Technology Summit 2026",
   "targetRepo": "krishnakumarsabbu-prog/TECH_SUMMIT_RESULT",
   "stats": {
@@ -109,43 +109,43 @@
   "prizeEligibleWinners": [],
   "participants": [
     {
-      "company": "Wells Fargo",
-      "role": "Summit Attendee",
-      "name": "Sabbu",
-      "entId": "U825744",
-      "isPrizeEligible": false,
-      "totalScore": 4,
-      "totalQuestions": 10,
-      "overallAccuracy": 40,
-      "totalTestsAppeared": 2,
-      "lastUpdated": "2026-10-20T08:14:04.261Z",
       "lob": "Technology / Enterprise Technology",
+      "totalScore": 4,
+      "entId": "U825744",
+      "status": "REGISTERED",
+      "registeredAt": "2026-10-20T06:39:44.820Z",
+      "totalTestsAppeared": 2,
+      "company": "Wells Fargo",
+      "overallAccuracy": 40,
+      "name": "Sabbu",
+      "lastUpdated": "2026-10-20T08:14:04.261Z",
       "tests": [
         {
-          "boothId": "booth-1",
           "boothNumber": 1,
-          "boothTitle": "Generative AI & LLMs",
-          "topicTitle": "Generative AI & Transformer Architectures",
-          "score": 3,
-          "totalQuestions": 5,
           "percentage": 60,
           "timeTakenSeconds": 9,
-          "completedAt": "2026-10-20T06:40:21.554Z"
+          "score": 3,
+          "completedAt": "2026-10-20T06:40:21.554Z",
+          "totalQuestions": 5,
+          "boothTitle": "Generative AI & LLMs",
+          "topicTitle": "Generative AI & Transformer Architectures",
+          "boothId": "booth-1"
         },
         {
-          "boothId": "booth-2",
-          "boothNumber": 2,
-          "boothTitle": "Cloud Native & Kubernetes",
-          "topicTitle": "Kubernetes Core & Pod Lifecycle",
-          "score": 1,
-          "totalQuestions": 5,
           "percentage": 20,
+          "totalQuestions": 5,
+          "boothNumber": 2,
           "timeTakenSeconds": 18,
+          "score": 1,
+          "boothId": "booth-2",
+          "topicTitle": "Kubernetes Core & Pod Lifecycle",
+          "boothTitle": "Cloud Native & Kubernetes",
           "completedAt": "2026-10-20T08:14:04.254Z"
         }
       ],
-      "status": "REGISTERED",
-      "registeredAt": "2026-10-20T06:39:44.820Z"
+      "totalQuestions": 10,
+      "isPrizeEligible": false,
+      "role": "Summit Attendee"
     }
   ]
 }
