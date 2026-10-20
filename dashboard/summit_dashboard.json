@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-20T06:20:06.126Z",
+  "generatedAt": "2026-10-20T06:41:16.372Z",
   "summitName": "Technology Summit 2026 — The 60-Second Tech Challenge",
   "targetRepo": "krishnakumarsabbu-prog/TECH_SUMMIT_RESULT",
   "stats": {
-    "totalRegisteredParticipants": 0,
-    "totalSubmissionsRecorded": 0,
+    "totalRegisteredParticipants": 1,
+    "totalSubmissionsRecorded": 1,
     "totalPrizeEligibleAttendees": 0,
-    "summitAverageAccuracy": 0,
-    "totalScoreAwarded": 0,
-    "totalQuestionsAnswered": 0
+    "summitAverageAccuracy": 60,
+    "totalScoreAwarded": 3,
+    "totalQuestionsAnswered": 5
   },
   "boothBreakdown": [
     {
       "boothNumber": 1,
       "boothTitle": "Generative AI & LLMs",
-      "totalAttempts": 0,
-      "averageScore": 0,
-      "averageAccuracy": 0,
-      "averageTimeSeconds": 0
+      "totalAttempts": 1,
+      "averageScore": 3,
+      "averageAccuracy": 60,
+      "averageTimeSeconds": 9
     },
     {
       "boothNumber": 2,
@@ -84,8 +84,57 @@
       "averageTimeSeconds": 0
     }
   ],
-  "lobBreakdown": [],
-  "leaderboard": [],
+  "lobBreakdown": [
+    {
+      "lob": "Technology / Enterprise Technology",
+      "participantCount": 1,
+      "averageScore": 3,
+      "prizeEligibleCount": 0
+    }
+  ],
+  "leaderboard": [
+    {
+      "rank": 1,
+      "entId": "U825744",
+      "name": "Sabbu",
+      "lob": "Technology / Enterprise Technology",
+      "totalScore": 3,
+      "totalQuestions": 5,
+      "overallAccuracy": 60,
+      "totalTestsAppeared": 1,
+      "isPrizeEligible": false,
+      "lastUpdated": "2026-10-20T06:40:21.554Z"
+    }
+  ],
   "prizeEligibleWinners": [],
-  "participants": []
+  "participants": [
+    {
+      "company": "Wells Fargo",
+      "entId": "U825744",
+      "isPrizeEligible": false,
+      "lastUpdated": "2026-10-20T06:40:21.554Z",
+      "lob": "Technology / Enterprise Technology",
+      "name": "Sabbu",
+      "overallAccuracy": 60,
+      "registeredAt": "2026-10-20T06:39:44.820Z",
+      "role": "Participant",
+      "status": "REGISTERED",
+      "tests": [
+        {
+          "boothId": "booth-1",
+          "boothNumber": 1,
+          "boothTitle": "Generative AI & LLMs",
+          "topicTitle": "Generative AI & Transformer Architectures",
+          "score": 3,
+          "totalQuestions": 5,
+          "percentage": 60,
+          "timeTakenSeconds": 9,
+          "completedAt": "2026-10-20T06:40:21.544Z"
+        }
+      ],
+      "totalQuestions": 5,
+      "totalScore": 3,
+      "totalTestsAppeared": 1
+    }
+  ]
 }
