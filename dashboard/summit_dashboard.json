@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-20T06:41:16.372Z",
-  "summitName": "Technology Summit 2026 — The 60-Second Tech Challenge",
+  "generatedAt": "2026-10-20T08:16:17.627Z",
+  "summitName": "Wells Fargo Technology Summit 2026",
   "targetRepo": "krishnakumarsabbu-prog/TECH_SUMMIT_RESULT",
   "stats": {
     "totalRegisteredParticipants": 1,
-    "totalSubmissionsRecorded": 1,
+    "totalSubmissionsRecorded": 2,
     "totalPrizeEligibleAttendees": 0,
-    "summitAverageAccuracy": 60,
-    "totalScoreAwarded": 3,
-    "totalQuestionsAnswered": 5
+    "summitAverageAccuracy": 0,
+    "totalScoreAwarded": 0,
+    "totalQuestionsAnswered": 10
   },
   "boothBreakdown": [
     {
       "boothNumber": 1,
       "boothTitle": "Generative AI & LLMs",
-      "totalAttempts": 1,
-      "averageScore": 3,
-      "averageAccuracy": 60,
-      "averageTimeSeconds": 9
+      "totalAttempts": 2,
+      "averageScore": 0,
+      "averageAccuracy": 0,
+      "averageTimeSeconds": 0
     },
     {
       "boothNumber": 2,
@@ -88,7 +88,7 @@
     {
       "lob": "Technology / Enterprise Technology",
       "participantCount": 1,
-      "averageScore": 3,
+      "averageScore": 4,
       "prizeEligibleCount": 0
     }
   ],
@@ -98,27 +98,28 @@
       "entId": "U825744",
       "name": "Sabbu",
       "lob": "Technology / Enterprise Technology",
-      "totalScore": 3,
-      "totalQuestions": 5,
-      "overallAccuracy": 60,
-      "totalTestsAppeared": 1,
+      "totalScore": 4,
+      "totalQuestions": 10,
+      "overallAccuracy": 40,
+      "totalTestsAppeared": 2,
       "isPrizeEligible": false,
-      "lastUpdated": "2026-10-20T06:40:21.554Z"
+      "lastUpdated": "2026-10-20T08:14:04.261Z"
     }
   ],
   "prizeEligibleWinners": [],
   "participants": [
     {
       "company": "Wells Fargo",
+      "role": "Summit Attendee",
+      "name": "Sabbu",
       "entId": "U825744",
       "isPrizeEligible": false,
-      "lastUpdated": "2026-10-20T06:40:21.554Z",
+      "totalScore": 4,
+      "totalQuestions": 10,
+      "overallAccuracy": 40,
+      "totalTestsAppeared": 2,
+      "lastUpdated": "2026-10-20T08:14:04.261Z",
       "lob": "Technology / Enterprise Technology",
-      "name": "Sabbu",
-      "overallAccuracy": 60,
-      "registeredAt": "2026-10-20T06:39:44.820Z",
-      "role": "Participant",
-      "status": "REGISTERED",
       "tests": [
         {
           "boothId": "booth-1",
@@ -129,12 +130,22 @@
           "totalQuestions": 5,
           "percentage": 60,
           "timeTakenSeconds": 9,
-          "completedAt": "2026-10-20T06:40:21.544Z"
+          "completedAt": "2026-10-20T06:40:21.554Z"
+        },
+        {
+          "boothId": "booth-2",
+          "boothNumber": 2,
+          "boothTitle": "Cloud Native & Kubernetes",
+          "topicTitle": "Kubernetes Core & Pod Lifecycle",
+          "score": 1,
+          "totalQuestions": 5,
+          "percentage": 20,
+          "timeTakenSeconds": 18,
+          "completedAt": "2026-10-20T08:14:04.254Z"
         }
       ],
-      "totalQuestions": 5,
-      "totalScore": 3,
-      "totalTestsAppeared": 1
+      "status": "REGISTERED",
+      "registeredAt": "2026-10-20T06:39:44.820Z"
     }
   ]
 }
