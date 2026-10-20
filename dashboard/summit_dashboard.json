@@ -1,0 +1,91 @@
+{
+  "generatedAt": "2026-10-20T06:20:06.126Z",
+  "summitName": "Technology Summit 2026 — The 60-Second Tech Challenge",
+  "targetRepo": "krishnakumarsabbu-prog/TECH_SUMMIT_RESULT",
+  "stats": {
+    "totalRegisteredParticipants": 0,
+    "totalSubmissionsRecorded": 0,
+    "totalPrizeEligibleAttendees": 0,
+    "summitAverageAccuracy": 0,
+    "totalScoreAwarded": 0,
+    "totalQuestionsAnswered": 0
+  },
+  "boothBreakdown": [
+    {
+      "boothNumber": 1,
+      "boothTitle": "Generative AI & LLMs",
+      "totalAttempts": 0,
+      "averageScore": 0,
+      "averageAccuracy": 0,
+      "averageTimeSeconds": 0
+    },
+    {
+      "boothNumber": 2,
+      "boothTitle": "Cloud Native & Kubernetes",
+      "totalAttempts": 0,
+      "averageScore": 0,
+      "averageAccuracy": 0,
+      "averageTimeSeconds": 0
+    },
+    {
+      "boothNumber": 3,
+      "boothTitle": "Cybersecurity & Zero Trust",
+      "totalAttempts": 0,
+      "averageScore": 0,
+      "averageAccuracy": 0,
+      "averageTimeSeconds": 0
+    },
+    {
+      "boothNumber": 4,
+      "boothTitle": "Data Engineering & Lakehouse",
+      "totalAttempts": 0,
+      "averageScore": 0,
+      "averageAccuracy": 0,
+      "averageTimeSeconds": 0
+    },
+    {
+      "boothNumber": 5,
+      "boothTitle": "DevOps, SRE & CI/CD",
+      "totalAttempts": 0,
+      "averageScore": 0,
+      "averageAccuracy": 0,
+      "averageTimeSeconds": 0
+    },
+    {
+      "boothNumber": 6,
+      "boothTitle": "Software Architecture & APIs",
+      "totalAttempts": 0,
+      "averageScore": 0,
+      "averageAccuracy": 0,
+      "averageTimeSeconds": 0
+    },
+    {
+      "boothNumber": 7,
+      "boothTitle": "IoT & Edge Computing",
+      "totalAttempts": 0,
+      "averageScore": 0,
+      "averageAccuracy": 0,
+      "averageTimeSeconds": 0
+    },
+    {
+      "boothNumber": 8,
+      "boothTitle": "Web3 & Distributed Ledgers",
+      "totalAttempts": 0,
+      "averageScore": 0,
+      "averageAccuracy": 0,
+      "averageTimeSeconds": 0
+    },
+    {
+      "boothNumber": 9,
+      "boothTitle": "Quantum & Emerging Horizons",
+      "totalAttempts": 0,
+      "averageScore": 0,
+      "averageAccuracy": 0,
+      "averageTimeSeconds": 0
+    }
+  ],
+  "lobBreakdown": [],
+  "leaderboard": [],
+  "prizeEligibleWinners": [],
+  "participants": []
+}
